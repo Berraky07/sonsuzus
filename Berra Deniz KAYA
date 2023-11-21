@@ -1,0 +1,6 @@
+Kullanıcıya kişinin cinsiyeti ve yaşı sorulur. Ona göre hediye önerilir.
+kız = bebek
+erkek = araba
+int(input("Cinsiyetiniz nedir?"))
+int(input("Yaşınız nedir?"))
+if
